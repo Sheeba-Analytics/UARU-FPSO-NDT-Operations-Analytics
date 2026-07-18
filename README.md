@@ -10,9 +10,11 @@ End-to-end Business Intelligence project demonstrating Python ETL, SQL Server Da
 
 # Project Overview
 
-This project demonstrates a complete Business Intelligence solution for analysing Non-Destructive Testing (NDT) inspection operations in an FPSO environment.
+This project demonstrates an end-to-end Business Intelligence solution for analysing Non-Destructive Testing (NDT) inspection operations in an FPSO environment.
 
-The solution combines Python for ETL, SQL Server for data warehousing, and Power BI for interactive operational reporting.
+The solution processes over **13,000 inspection records**, transforms operational data through a Python ETL pipeline, builds a dimensional SQL Server data warehouse, and delivers interactive Power BI dashboards for operational reporting.
+
+The project showcases practical skills in data engineering, data warehousing, SQL analytics, and Business Intelligence reporting.
 
 ---
 
@@ -169,14 +171,17 @@ The dashboard enables users to:
 
 # Skills Demonstrated
 
+- ETL Pipeline Design
 - Python ETL
 - Data Cleaning
+- Data Quality Validation
 - Data Validation
-- SQL Server Data Warehouse Design
+- Data Modelling
 - Star Schema Modelling
+- SQL Server Data Warehouse Design
 - SQL Development
-- Power BI Dashboard Design
 - DAX Measures
+- Power BI Dashboard Design
 - Business Intelligence Reporting
 - GitHub Documentation
 
